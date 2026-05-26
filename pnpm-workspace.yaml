@@ -1,0 +1,12 @@
+onlyBuiltDependencies:
+  - esbuild
+  - protobufjs
+  - sharp
+  - workerd
+
+overrides:
+  "minimatch@9": "^9.0.7"
+  "brace-expansion@5": "^5.0.6"
+  "picomatch@2": "^2.3.2"
+  "protobufjs@7": "^7.5.8"
+  "ws@8": "^8.20.1"
